@@ -1,0 +1,26 @@
+
+
+1) Start de virtual environment. 
+Typ in terminal:
+source /home/maple/Djangogirls/myvenv/bin/activate
+
+Uitleg:
+Het programma dat de virtual enviroment opstart zit in het mapje 'activate'. 'Source' betekent dat je alles wat in het volgende mapje zit laat runnen. 
+
+2) Eventueel kun je 'pip' proberen te upgraden.
+Typ in terminal:
+pip install --upgrade pip
+
+
+
+3) Start de server.
+Ga in terminal eerst naar het mapje 'djangogirls'
+Typ in terminal:
+python manage.py runserver
+
+Got o: http://127.0.0.1:8000/admin/
+
+Inlog: Maple
+Password: the simple b password
+
+
